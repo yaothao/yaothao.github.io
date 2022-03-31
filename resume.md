@@ -11,7 +11,7 @@ I have experienced using front-end development tools such as HTML, CSS and Javas
 
 ## Beijing Normal University (Beijing, CHINA)
 
-*[Beijing Normal University][https://english.bnu.edu.cn/] is one of the most prestigious universities for teaching.*
+*[Beijing Normal University](https://english.bnu.edu.cn/) is one of the most prestigious universities for teaching.*
 
 **UX Designer Intern** (Jun/2017 - Sep/2017)
 
