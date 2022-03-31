@@ -13,7 +13,7 @@ I have experienced using front-end development tools such as HTML, CSS and Javas
 
 *[Beijing Normal University][https://english.bnu.edu.cn/] is one of the most prestigious universities for teaching.*
 
-** UX Designer Intern ** (Jun/2017 - Sep/2017)
+**UX Designer Intern** (Jun/2017 - Sep/2017)
 
 I mainly worked with companies such as the BMW and local coffee shops to optimize their operating system as well as the physical projects through qualitative research methods.
 
